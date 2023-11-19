@@ -1,0 +1,10 @@
+import image from "../images/design-desk.jpeg";
+const imageAltText = "desktop with books and laptop";
+
+const projectList = [
+    {
+      title: "Addelink",
+      description: "Projet Addelink : ERP de Gestion d'Entreprises en BTP Description : Addelink est une solution ERP complète dédiée à la gestion d'entreprises dans le secteur du BTP. Cette plateforme offre une gamme étendue de fonctionnalités essentielles pour optimiser les opérations au sein de l'entreprise. Parmi ses points forts figurent la gestion des stocks, la supervision des employés, et la coordination des chantiers.L'une des caractéristiques clés d'Addelink réside dans sa capacité à faciliter l'exportation des données. Les utilisateurs peuvent générer des rapports détaillés dans des formats variés tels que PDF et Excel, permettant une analyse approfondie et une prise de décision éclairée. La personnalisation est au cœur du design d'Addelink, offrant une flexibilité totale dans l'adaptation de chaque interface à des besoins spécifiques. Cette approche permet aux entreprises de configurer la plateforme selon leurs processus internes, garantissant une expérience utilisateur intuitive et efficace. Technologies Utilisées : Addelink repose sur des technologies modernes pour assurer une performance optimale et une expérience utilisateur fluide. Le backend est développé avec Laravel, offrant une base solide et évolutive. Du côté frontend, le framework Saas (Bootstrap) est employé, accompagné d'un code HTML et CSS soigneusement élaboré pour garantir un design responsive et esthétique. L'hébergement du projet repose sur Apache, assurant une gestion efficace des requêtes et une sécurité robuste. L'utilisation de ces technologies de pointe garantit que Addelink offre non seulement des fonctionnalités puissantes mais également une base technologique fiable et pérenne. Addelink représente ainsi une solution ERP de premier plan pour les entreprises du secteur du BTP, combinant fonctionnalités avancées et technologies de pointe pour répondre aux besoins complexes de gestion d'entreprise.",
+      url: "https://www.addelink.com/",
+    },
+  ];
